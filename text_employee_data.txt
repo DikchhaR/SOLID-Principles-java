@@ -1,0 +1,19 @@
+
+
+name=DikchhaRijal
+email=rijaldikchha@gmail.com
+address=77 Inverness Ave
+salary=60000.0
+totalCompensation=67500.0
+yearsOfService=5
+Bonus =7500.0
+Pension  =600.0
+
+name=SachinRijal
+email=rijalsachin@gmail.com
+address=77 Inverness Ave
+salary=65000.0
+totalCompensation=65000.0
+yearsOfService=7
+Renewal =Sun Jun 01 18:21:05 EDT 2025
+

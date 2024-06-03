@@ -1,0 +1,2 @@
+{"name":"DikchhaRijal","email":"rijaldikchha@gmail.com","address":"77 Inverness Ave","salary":60000.0,"numberOfServiceYear":5,"totalCompensation":67500.0,"bonus":7500.0,"pension":600.0}
+{"name":"SachinRijal","email":"rijalsachin@gmail.com","address":"77 Inverness Ave","salary":65000.0,"numberOfServiceYear":7,"totalCompensation":65000.0,"renewalDate":1748816465636}
